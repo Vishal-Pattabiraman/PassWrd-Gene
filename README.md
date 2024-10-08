@@ -1,6 +1,4 @@
 
-That sounds like a great project! Here’s a suggested format for your GitHub post to showcase your password generator website:
-
 Password Generator Website
 Welcome to my Password Generator website! This web application allows you to create secure, random passwords that include uppercase letters, lowercase letters, numbers, and symbols.
 
@@ -13,7 +11,7 @@ Select Character Types: Use the checkboxes to select the types of characters you
 Generate Password: Click the "Generate" button to create your password.
 Copy to Clipboard: Click the clipboard icon to easily copy your new password.
 Live Demo
-You can try out the Password Generator here:"
+You can try out the Password Generator here:"https://vishal-pattabiraman.github.io/PassWrd-Gene/"
 
 Technologies Used
 HTML: For the structure of the web page.
